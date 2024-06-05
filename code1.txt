@@ -1,14 +1,2 @@
 new code?
 code
-<<<<<<< HEAD
-ee
-ddddd
-=======
-
-HEAD
-??????
->>>>>>> a7c8172e0fe38d29963b132a102a4afa5f03d3b1
-메인에서 개발 중
-
-테스트 브랜치에서 개발 중
- test
